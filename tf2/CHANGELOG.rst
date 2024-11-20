@@ -2,6 +2,9 @@
 Changelog for package tf2
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.36.5 (2024-11-20)
+-------------------
+
 0.36.4 (2024-05-29)
 -------------------
 * Removed warning (`#682 <https://github.com/ros2/geometry2/issues/682>`_) (`#683 <https://github.com/ros2/geometry2/issues/683>`_)

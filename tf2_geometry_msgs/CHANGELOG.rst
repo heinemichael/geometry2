@@ -2,6 +2,13 @@
 Changelog for package tf2_geometry_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.36.5 (2024-11-20)
+-------------------
+* Fix tf2_geometry_msgs_INCLUDE_DIRS. (`#729 <https://github.com/ros2/geometry2/issues/729>`_) (`#731 <https://github.com/ros2/geometry2/issues/731>`_)
+  (cherry picked from commit abea0e92e3eabfaa1079752d9ac6da352bc590d2)
+  Co-authored-by: rkeating-planted <159858498+rkeating-planted@users.noreply.github.com>
+* Contributors: mergify[bot]
+
 0.36.4 (2024-05-29)
 -------------------
 

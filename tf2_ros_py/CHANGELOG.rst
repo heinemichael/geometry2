@@ -2,6 +2,15 @@
 Changelog for package tf2_ros_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.36.5 (2024-11-20)
+-------------------
+* Fix the time_jump_callback signature. (`#711 <https://github.com/ros2/geometry2/issues/711>`_) (`#712 <https://github.com/ros2/geometry2/issues/712>`_)
+  Because it accesses object data, the first argument
+  must be 'self'.
+  (cherry picked from commit efc784597ccbd8d246794e72b20358deab4ab114)
+  Co-authored-by: Chris Lalancette <clalancette@gmail.com>
+* Contributors: mergify[bot]
+
 0.36.4 (2024-05-29)
 -------------------
 
