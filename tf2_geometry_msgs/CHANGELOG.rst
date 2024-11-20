@@ -2,6 +2,13 @@
 Changelog for package tf2_geometry_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.25.9 (2024-11-20)
+-------------------
+* Fix tf2_geometry_msgs_INCLUDE_DIRS. (`#729 <https://github.com/ros2/geometry2/issues/729>`_) (`#730 <https://github.com/ros2/geometry2/issues/730>`_)
+  (cherry picked from commit abea0e92e3eabfaa1079752d9ac6da352bc590d2)
+  Co-authored-by: rkeating-planted <159858498+rkeating-planted@users.noreply.github.com>
+* Contributors: mergify[bot]
+
 0.25.8 (2024-08-29)
 -------------------
 * Enable Twist interpolator (backport `#646 <https://github.com/ros2/geometry2/issues/646>`_) (`#684 <https://github.com/ros2/geometry2/issues/684>`_)

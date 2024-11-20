@@ -2,6 +2,9 @@
 Changelog for package tf2_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.25.9 (2024-11-20)
+-------------------
+
 0.25.8 (2024-08-29)
 -------------------
 * Enable Twist interpolator (backport `#646 <https://github.com/ros2/geometry2/issues/646>`_) (`#684 <https://github.com/ros2/geometry2/issues/684>`_)
