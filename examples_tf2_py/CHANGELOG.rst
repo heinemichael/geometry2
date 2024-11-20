@@ -2,6 +2,11 @@
 Changelog for package examples_tf2_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.39.2 (2024-11-20)
+-------------------
+* Add in test_xmllint for geometry2 python packages. (`#725 <https://github.com/ros2/geometry2/issues/725>`_)
+* Contributors: Chris Lalancette
+
 0.39.1 (2024-10-15)
 -------------------
 

@@ -2,6 +2,12 @@
 Changelog for package tf2_ros_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.39.2 (2024-11-20)
+-------------------
+* Adding StaticTransformListener in Python (`#719 <https://github.com/ros2/geometry2/issues/719>`_)
+* Add in test_xmllint for geometry2 python packages. (`#725 <https://github.com/ros2/geometry2/issues/725>`_)
+* Contributors: Chris Lalancette, Lucas Wendland
+
 0.39.1 (2024-10-15)
 -------------------
 * Add configurable TF topics (`#709 <https://github.com/ros2/geometry2//issues/709>`_)

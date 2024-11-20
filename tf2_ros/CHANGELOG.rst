@@ -2,6 +2,11 @@
 Changelog for package tf2_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.39.2 (2024-11-20)
+-------------------
+* specified quaternion order to be xyzw (`#718 <https://github.com/ros2/geometry2/issues/718>`_)
+* Contributors: Abhishek Kashyap
+
 0.39.1 (2024-10-15)
 -------------------
 * Add configurable TF topics (`#709 <https://github.com/ros2/geometry2//issues/709>`_)
