@@ -2,8 +2,8 @@
 Changelog for package tf2_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.39.3 (2024-11-25)
+-------------------
 * Add a python3-dev dependency to tf2_py. (`#733 <https://github.com/ros2/geometry2/issues/733>`_)
 * Contributors: Chris Lalancette
 
