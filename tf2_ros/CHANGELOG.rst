@@ -2,6 +2,9 @@
 Changelog for package tf2_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.39.2 (2024-11-20)
 -------------------
 * specified quaternion order to be xyzw (`#718 <https://github.com/ros2/geometry2/issues/718>`_)

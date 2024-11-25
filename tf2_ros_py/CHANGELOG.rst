@@ -2,6 +2,9 @@
 Changelog for package tf2_ros_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.39.2 (2024-11-20)
 -------------------
 * Adding StaticTransformListener in Python (`#719 <https://github.com/ros2/geometry2/issues/719>`_)
