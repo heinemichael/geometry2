@@ -2,6 +2,13 @@
 Changelog for package tf2
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Removed unused var in tf2 (`#735 <https://github.com/ros2/geometry2/issues/735>`_) (`#736 <https://github.com/ros2/geometry2/issues/736>`_)
+  (cherry picked from commit e791b58f8826a31d8ea11f45b7bf3026f26eab8a)
+  Co-authored-by: Alejandro Hernández Cordero <ahcorde@gmail.com>
+* Contributors: mergify[bot]
+
 0.36.5 (2024-11-20)
 -------------------
 

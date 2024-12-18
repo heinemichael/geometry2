@@ -2,6 +2,9 @@
 Changelog for package tf2_ros_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.36.5 (2024-11-20)
 -------------------
 * Fix the time_jump_callback signature. (`#711 <https://github.com/ros2/geometry2/issues/711>`_) (`#712 <https://github.com/ros2/geometry2/issues/712>`_)
