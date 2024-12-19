@@ -2,6 +2,11 @@
 Changelog for package test_tf2
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.25.10 (2024-12-19)
+--------------------
+* Humble "Backport" of `#720 <https://github.com/ros2/geometry2/issues/720>`_ (`#722 <https://github.com/ros2/geometry2/issues/722>`_)
+* Contributors: Lucas Wendland
+
 0.25.9 (2024-11-20)
 -------------------
 

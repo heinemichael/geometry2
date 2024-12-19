@@ -2,6 +2,11 @@
 Changelog for package tf2_geometry_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.25.10 (2024-12-19)
+--------------------
+* Humble "Backport" of `#720 <https://github.com/ros2/geometry2/issues/720>`_ (`#722 <https://github.com/ros2/geometry2/issues/722>`_)
+* Contributors: Lucas Wendland
+
 0.25.9 (2024-11-20)
 -------------------
 * Fix tf2_geometry_msgs_INCLUDE_DIRS. (`#729 <https://github.com/ros2/geometry2/issues/729>`_) (`#730 <https://github.com/ros2/geometry2/issues/730>`_)
