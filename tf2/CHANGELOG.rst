@@ -2,8 +2,8 @@
 Changelog for package tf2
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.40.0 (2024-12-20)
+-------------------
 * Deprecate C Headers (`#720 <https://github.com/ros2/geometry2/issues/720>`_)
 * Removed unused var in tf2 (`#735 <https://github.com/ros2/geometry2/issues/735>`_)
 * Contributors: Alejandro Hernández Cordero, Lucas Wendland
