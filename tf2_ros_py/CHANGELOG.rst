@@ -2,6 +2,11 @@
 Changelog for package tf2_ros_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add in the linters for tf2_ros_py. (`#740 <https://github.com/ros2/geometry2/issues/740>`_)
+* Contributors: Chris Lalancette
+
 0.39.3 (2024-11-25)
 -------------------
 
