@@ -2,6 +2,11 @@
 Changelog for package tf2_kdl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.36.7 (2024-12-27)
+-------------------
+* Jazzy "Backport" of `#720 <https://github.com/ros2/geometry2/issues/720>`_ (`#723 <https://github.com/ros2/geometry2/issues/723>`_)
+* Contributors: Lucas Wendland
+
 0.36.6 (2024-12-18)
 -------------------
 
