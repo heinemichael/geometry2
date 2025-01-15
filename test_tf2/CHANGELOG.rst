@@ -2,6 +2,13 @@
 Changelog for package test_tf2
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.40.1 (2025-01-15)
+-------------------
+* Remove many extra conversions from Matrix3x3 to Quaternion (`#741 <https://github.com/ros2/geometry2/issues/741>`_)
+  Co-authored-by: jmachowinski <jmachowinski@users.noreply.github.com>
+  Co-authored-by: Katherine Scott <katherineAScott@gmail.com>
+* Contributors: kyle-basis
+
 0.40.0 (2024-12-20)
 -------------------
 * Deprecate C Headers (`#720 <https://github.com/ros2/geometry2/issues/720>`_)

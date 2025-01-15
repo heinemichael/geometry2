@@ -2,6 +2,9 @@
 Changelog for package tf2_bullet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.40.1 (2025-01-15)
+-------------------
+
 0.40.0 (2024-12-20)
 -------------------
 * Deprecate C Headers (`#720 <https://github.com/ros2/geometry2/issues/720>`_)

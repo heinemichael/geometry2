@@ -2,6 +2,9 @@
 Changelog for package tf2_ros_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.40.1 (2025-01-15)
+-------------------
+
 0.40.0 (2024-12-20)
 -------------------
 * Add in the linters for tf2_ros_py. (`#740 <https://github.com/ros2/geometry2/issues/740>`_)

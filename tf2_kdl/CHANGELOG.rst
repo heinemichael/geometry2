@@ -2,6 +2,15 @@
 Changelog for package tf2_kdl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.40.1 (2025-01-15)
+-------------------
+* tf2_kdl: add python_orocos_kdl_vendor dependency (`#745 <https://github.com/ros2/geometry2/issues/745>`_)
+  * tf2_kdl: add python_orocos_kdl_vendor dependency
+  The tf2_kdl Python API depends on PyKDL, which is provided by python_orocos_kdl_vendor.
+  * tf2_kdl: remove tf2_msgs test dependency
+  This dependency is not needed.
+* Contributors: Ben Wolsieffer
+
 0.40.0 (2024-12-20)
 -------------------
 * Deprecate C Headers (`#720 <https://github.com/ros2/geometry2/issues/720>`_)

@@ -2,6 +2,18 @@
 Changelog for package tf2
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.40.1 (2025-01-15)
+-------------------
+* Remove many extra conversions from Matrix3x3 to Quaternion (`#741 <https://github.com/ros2/geometry2/issues/741>`_)
+  Co-authored-by: jmachowinski <jmachowinski@users.noreply.github.com>
+  Co-authored-by: Katherine Scott <katherineAScott@gmail.com>
+* Cleanup deprecation warnings. (`#744 <https://github.com/ros2/geometry2/issues/744>`_)
+  The deprecation warnings were not printing out properly on
+  GCC, at least; it would warn that #warning was not standard,
+  and it would also not print out the actual warning.  Also
+  "deprecated" was spelled wrong.  Fix all of these issues here.
+* Contributors: Chris Lalancette, kyle-basis
+
 0.40.0 (2024-12-20)
 -------------------
 * Deprecate C Headers (`#720 <https://github.com/ros2/geometry2/issues/720>`_)
