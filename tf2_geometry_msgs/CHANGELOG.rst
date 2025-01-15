@@ -2,6 +2,9 @@
 Changelog for package tf2_geometry_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.36.8 (2025-01-15)
+-------------------
+
 0.36.7 (2024-12-27)
 -------------------
 * Jazzy "Backport" of `#720 <https://github.com/ros2/geometry2/issues/720>`_ (`#723 <https://github.com/ros2/geometry2/issues/723>`_)

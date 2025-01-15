@@ -2,6 +2,13 @@
 Changelog for package tf2_kdl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.36.8 (2025-01-15)
+-------------------
+* tf2_kdl: add python_orocos_kdl_vendor dependency (`#745 <https://github.com/ros2/geometry2/issues/745>`_) (`#747 <https://github.com/ros2/geometry2/issues/747>`_)
+  (cherry picked from commit 894ab122f63123e40a0df8d643cbcde6835ccfde)
+  Co-authored-by: Ben Wolsieffer <benwolsieffer@gmail.com>
+* Contributors: mergify[bot]
+
 0.36.7 (2024-12-27)
 -------------------
 * Jazzy "Backport" of `#720 <https://github.com/ros2/geometry2/issues/720>`_ (`#723 <https://github.com/ros2/geometry2/issues/723>`_)
